@@ -1,0 +1,55 @@
+{
+  "_from": "react-native-picker-android@~1.0.3",
+  "_id": "react-native-picker-android@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-FgeEO85RDTWihSJRGZTTz87TRN0=",
+  "_location": "/react-native-picker-android",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-picker-android@~1.0.3",
+    "name": "react-native-picker-android",
+    "escapedName": "react-native-picker-android",
+    "rawSpec": "~1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "~1.0.3"
+  },
+  "_requiredBy": [
+    "/react-native-picker"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-picker-android/-/react-native-picker-android-1.0.3.tgz",
+  "_shasum": "1607843bce510d35a28522511994d3cfced344dd",
+  "_spec": "react-native-picker-android@~1.0.3",
+  "_where": "/Users/desarrollo/Documents/React Native/OptimusFleetManager copy 2/node_modules/react-native-picker",
+  "author": {
+    "name": "rsk",
+    "email": "rsk_rsk@163.com"
+  },
+  "bugs": {
+    "url": "https://github.com/beefe/react-native-picker-android/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "react-native-picker-android",
+  "engines": {
+    "node": ">=4"
+  },
+  "homepage": "https://github.com/beefe/react-native-picker-android#readme",
+  "keywords": [
+    "react-native",
+    "android",
+    "picker"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-picker-android",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beefe/react-native-picker-android.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
